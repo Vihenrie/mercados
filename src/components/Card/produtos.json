@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Carne": "Ponta de Alcatra",
+        "img": "https://ibassets.com.br/ib.item.image.big/b-c59166bfd9054503ad0e71b0b5f469a0.jpeg"
+    },
+    {
+        "id": 2,
+        "Carne": "Picanha",
+        "img": "https://ibassets.com.br/ib.item.image.big/b-cb9189b2d52e4e3fafd88575e31e877b.jpeg"
+    },
+    {
+        "id": 3,
+        "Carne": "Contra Filé",
+        "img": "https://ibassets.com.br/ib.item.image.big/b-6a30efc8f3e4493d977037f6d630db93.jpeg"
+    },
+    {
+        "id": 4,
+        "Carne": "Maminha",
+        "img": "https://swiftbr.vteximg.com.br/arquivos/ids/175432-636-636/maminha-swift-gran-reserva-617817-1.jpg?v=637577426527800000"
+    }
+]

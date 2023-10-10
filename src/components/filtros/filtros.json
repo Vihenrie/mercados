@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "label": "Frutas"
+    },
+    {
+        "id": 2,
+        "label": "Carnes"
+    },
+    {
+        "id": 3,
+        "label": "Verduras"
+    },
+    {
+        "id": 4,
+        "label": "Veganos"
+    },
+    {
+        "id": 5,
+        "label": "Bolachas"
+    },
+    {
+        "id": 6,
+        "label": "Sucos"
+    },
+    {
+        "id": 7,
+        "label": "Frios"
+    }
+]

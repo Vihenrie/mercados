@@ -1,0 +1,16 @@
+.header{
+    align-items: center;
+    background-image: url("/assets/banner_2.jpg");
+    background-size:contain;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 650px;
+    padding: 0px 20;
+    &__text {
+      color: white;
+      font-size: 5rem;
+      min-width: 400px;
+      width: 40%;
+    }
+}

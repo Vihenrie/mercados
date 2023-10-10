@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img{
+    height: 220px;
+    width: 220px;
+    border-radius: 15px;
+}
